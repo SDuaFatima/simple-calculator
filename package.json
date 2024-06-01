@@ -1,6 +1,6 @@
 {
   "name": "sdf2001-simple-calculator",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "a simple calculator with typescript, node.js and inquirer",
   "main": "index.js",
   "type": "module",
